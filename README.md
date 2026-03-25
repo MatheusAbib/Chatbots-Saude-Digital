@@ -37,9 +37,9 @@ Este projeto consiste em um **artigo acadêmico digital** que realiza uma análi
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"> **HTML5** | Estrutura semântica do artigo |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"> **CSS3** | Estilização responsiva e tema dark/light |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"> **JavaScript** | Interatividade, tradução e paginação |
-| <img src="https://fonts.gstatic.com/s/i/materialicons/star/v4/24px.svg" width="20" height="20"> **PrimeIcons** | Ícones da interface |
-| <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/font-awesome.svg" width="20" height="20"> **Font Awesome** | Ícones complementares |
-| <img src="https://fonts.gstatic.com/s/i/googlefonts/Inter/v1/24px.svg" width="20" height="20"> **Google Fonts** | Tipografia (Inter e Merriweather) |
+| **PrimeIcons** | Ícones da interface |
+| **Font Awesome** | Ícones complementares |
+| **Google Fonts** | Tipografia (Inter e Merriweather) |
 
 ---
 
