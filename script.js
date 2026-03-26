@@ -798,7 +798,8 @@ const translations = {
             citarABNT: "Citar ABNT",
             citarAPA: "Citar APA",
             compartilhar: "Compartilhar",
-            tema: "Tema"
+            tema: "Tema",
+            abrirPDF: "Abrir PDF"
         },
         footer: {
             autores: "Autores",
@@ -857,12 +858,13 @@ const translations = {
             minLeitura: "min read",
             instituicao: "FATEC Mogi das Cruzes · 2025"
         },
-        buttons: {
-            citarABNT: "Cite ABNT",
-            citarAPA: "Cite APA",
-            compartilhar: "Share",
-            tema: "Theme"
-        },
+  buttons: {
+        citarABNT: "Cite ABNT",
+        citarAPA: "Cite APA",
+        compartilhar: "Share",
+        tema: "Theme",
+        abrirPDF: "Open PDF"
+    },
         footer: {
             autores: "Authors",
             instituicao: "Institution",
@@ -924,7 +926,8 @@ const translations = {
             citarABNT: "Citar ABNT",
             citarAPA: "Citar APA",
             compartilhar: "Compartir",
-            tema: "Tema"
+            tema: "Tema",
+            abrirPDF: "Abrir PDF"
         },
         footer: {
             autores: "Autores",
@@ -983,6 +986,10 @@ function updateUITexts(lang) {
     authors[1].innerHTML = `<i class="pi pi-user"></i> ${t.byline.autor2}`;
     authors[2].innerHTML = `<i class="pi pi-user"></i> ${t.byline.autor3}`;
     
+    const downloadBtn = document.getElementById('downloadPdfBtn');
+    if (downloadBtn) {
+        downloadBtn.innerHTML = `<i class="pi pi-file-pdf"></i> ${t.buttons.abrirPDF}`;
+    }
 
 
     const readingTimeSpan = document.querySelector('.reading-time');
@@ -1317,5 +1324,8 @@ document.getElementById('langSelect').addEventListener('change', (e) => {
             if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
     });
+
+
+    
 renderFullArticle();
 initProgressBar();
