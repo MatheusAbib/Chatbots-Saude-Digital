@@ -85,9 +85,10 @@
         </div>
     </div>
     <div class="action-buttons">
-<button id="citeABNT" class="btn-outline"><i class="fas fa-quote-right"></i> Citar ABNT</button>
+        <button id="citeABNT" class="btn-outline"><i class="fas fa-quote-right"></i> Citar ABNT</button>
         <button id="citeAPA" class="btn-outline"><i class="pi pi-book"></i> Citar APA</button>
         <button id="shareBtn" class="btn-outline"><i class="pi pi-share-alt"></i> Compartilhar</button>
+        <button id="downloadPdfBtn" class="btn-outline"><i class="pi pi-file-pdf"></i> Abrir PDF</button>
     </div>
 
     <div class="article-grid">
@@ -185,6 +186,18 @@
 </footer>
 <div id="toastMessage" class="toast"></div>
 
+<script>
+    document.getElementById('downloadPdfBtn').addEventListener('click', function() {
+        window.open('./Submissão 2026.pdf', '_blank');
+        
+        const toast = document.getElementById('toastMessage');
+        toast.textContent = '📄 Abrindo PDF em nova aba...';
+        toast.classList.add('show');
+        setTimeout(() => {
+            toast.classList.remove('show');
+        }, 3000);
+    });
+</script>
 <script src="script.js"></script>
 
 </body>
