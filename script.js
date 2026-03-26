@@ -1,4 +1,4 @@
-﻿    const fullContent = {
+        const fullContent = {
     pt: {
         resumo: `
             <p>O presente artigo analisa comparativamente as seguintes plataformas de chatbots aplicadas à saúde digital: Ada Health, Molly (Sensely) e Symptomate. Utilizando uma abordagem qualitativa, exploratória e bibliográfica, o estudo avalia aspectos técnicos, clínicos e de experiência do usuário por meio de critérios como precisão diagnóstica, conformidade com a Lei Geral de Proteção de Dados (LGPD), satisfação dos usuários, acessibilidade técnica e compreensão de linguagem natural. Os resultados indicam que a Ada Health se destaca pela robustez científica e aceitação do público, a Molly pela abordagem humanizada com avatar interativo voltado ao monitoramento de doenças crônicas, e o Symptomate pela simplicidade e eficiência na triagem inicial de sintomas. A análise revela que, embora os chatbots ampliem o acesso e otimizem o atendimento em saúde, ainda enfrentam desafios relacionados à privacidade, personalização e usabilidade. Conclui-se que essas ferramentas possuem grande potencial para complementar o cuidado médico, desde que sua implementação observe aspectos éticos, técnicos e regulatórios.</p>
@@ -392,7 +392,7 @@ referencias: `<div class="references-container">
         
         consideracoes: `<p>The comparative analysis of the Ada Health, Molly (Sensely), and Symptomate chatbots proved that these tools have great potential to transform healthcare delivery, offering agile triage, initial clinical support, and accessibility to users. Among the solutions evaluated, Ada Health stood out as the most complete chatbot, combining high diagnostic accuracy, robust scientific validation, excellent user experience, and wide public acceptance. Although Molly offers a humanized differential through an interactive avatar and Symptomate shows strong performance in natural language and LGPD compliance, both still face limitations in technical performance and/or privacy. It is concluded that Ada Health is the most balanced and effective option among those analyzed, being indicated as a model for future artificial intelligence applications in healthcare. It is recommended that new implementations prioritize data security, continuous clinical validation, and focus on patient experience to ensure positive and ethical impact in the sector, also promoting greater accessibility and personalization of digital care.</p>`,
         
-        referencias: `<div class="references-container">
+referencias: `<div class="references-container">
     <div class="references-grid">
         <div class="reference-item">
             <div class="ref-authors">ADA HEALTH.</div>
@@ -408,7 +408,139 @@ referencias: `<div class="references-container">
             <div class="ref-source">Available at: <a href="https://medcitynews.com/2023/04/ada-health-deploys-its-symptomassessment-care-navigation-tech-across-jefferson-health/" target="_blank" rel="noopener noreferrer">https://medcitynews.com</a></div>
             <div class="ref-access">Accessed: Apr 9, 2025.</div>
         </div>
-        <!-- Add all other references with English translations -->
+        <div class="reference-item">
+            <div class="ref-authors">ALOWAIS, S. A.; SHUROUG, S.</div>
+            <div class="ref-title">Revolutionizing healthcare: the role of artificial intelligence in clinical practice.</div>
+            <div class="ref-source">BMC Medical Education, 2023.</div>
+            <div class="ref-source">Available at: <a href="https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698z#citeas" target="_blank" rel="noopener noreferrer">https://bmcmededuc.biomedcentral.com</a></div>
+            <div class="ref-access">Accessed: Mar 25, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">ARMITAGE, H.</div>
+            <div class="ref-title">Physician decision chatbot.</div>
+            <div class="ref-source">Stanford Medicine, 2025.</div>
+            <div class="ref-source">Available at: <a href="https://med.stanford.edu/news/all-news/2025/02/physiciandecision-chatbot.html" target="_blank" rel="noopener noreferrer">https://med.stanford.edu</a></div>
+            <div class="ref-access">Accessed: Apr 13, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">BENIS, A. I.</div>
+            <div class="ref-title">The use of chatbots in health care: a review of literature.</div>
+            <div class="ref-source">JMIR Medical Informatics, v. 8, n. 4, 2020.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">BMJ OPEN.</div>
+            <div class="ref-title">Comparison of symptom checkers triage performance in primary care.</div>
+            <div class="ref-source">BMJ Open, v. 10, n. 4, 2020.</div>
+            <div class="ref-source">Available at: <a href="https://bmjopen.bmj.com/" target="_blank" rel="noopener noreferrer">https://bmjopen.bmj.com/</a></div>
+            <div class="ref-access">Accessed: Mar 18, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">BRAZ, J.</div>
+            <div class="ref-title">How chatbots can help patients and healthcare professionals.</div>
+            <div class="ref-source">Correio da Amazônia, 2018.</div>
+            <div class="ref-source">Available at: <a href="https://correiodaamazonia.com/como-os-chatbots-podem-auxiliarpacientes-e-profissionais-da-area-de-saude/" target="_blank" rel="noopener noreferrer">https://correiodaamazonia.com</a></div>
+            <div class="ref-access">Accessed: Apr 14, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">CHATFUEL.</div>
+            <div class="ref-title">Medical AI chatbots.</div>
+            <div class="ref-source">Chatfuel, 2024.</div>
+            <div class="ref-source">Available at: <a href="https://chatfuel.com/pt/blog/medical-ai-chatbots" target="_blank" rel="noopener noreferrer">https://chatfuel.com</a></div>
+            <div class="ref-access">Accessed: Apr 13, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">CHUDLEIGH, S.</div>
+            <div class="ref-title">Best medical AI chatbots.</div>
+            <div class="ref-source">Botpress, 2025.</div>
+            <div class="ref-source">Available at: <a href="https://botpress.com/pt/blog/top-health-chatbots" target="_blank" rel="noopener noreferrer">https://botpress.com</a></div>
+            <div class="ref-access">Accessed: Mar 20, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">FUTURO DA SAÚDE.</div>
+            <div class="ref-title">Ada Health grows in the digital health market by raising $30 million for diagnostic app.</div>
+            <div class="ref-source">Futuro da Saúde, 2022.</div>
+            <div class="ref-source">Available at: <a href="https://futurodasaude.com.br/ada-health-cresce-no-mercadode-saude-digital-ao-levantar-us-30-milhoes-para-aplicativo-dediagnostico/" target="_blank" rel="noopener noreferrer">https://futurodasaude.com.br</a></div>
+            <div class="ref-access">Accessed: Apr 8, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">INBENTA.</div>
+            <div class="ref-title">Benefits of chatbots in healthcare: 9 use cases.</div>
+            <div class="ref-source">Inbenta, 2022.</div>
+            <div class="ref-source">Available at: <a href="https://www.inbenta.com/pt-br/articles/benefits-of-chatbots-in-healthcare-9-use-cases-of-healthcare-chatbots/" target="_blank" rel="noopener noreferrer">https://www.inbenta.com</a></div>
+            <div class="ref-access">Accessed: Apr 10, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">MAULDIN, M.</div>
+            <div class="ref-title">ChatterBots, TinyMUDs, and the Turing Test: entering the Loebner Prize competition.</div>
+            <div class="ref-source">In: Proceedings of the National Conference on Artificial Intelligence. 1994. p. 16–21.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">MORDOR INTELLIGENCE.</div>
+            <div class="ref-title">Digital assistants in healthcare market.</div>
+            <div class="ref-source">Mordor Intelligence, 2024.</div>
+            <div class="ref-source">Available at: <a href="https://www.mordorintelligence.com/pt/industry-reports/digital-assistantsin-healthcare-market" target="_blank" rel="noopener noreferrer">https://www.mordorintelligence.com</a></div>
+            <div class="ref-access">Accessed: Mar 16, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">OHR, T.</div>
+            <div class="ref-title">Ada Health secures €40 million of funding to improve access to healthcare information globally.</div>
+            <div class="ref-source">EU Startups, 2017.</div>
+            <div class="ref-source">Available at: <a href="https://www.eu-startups.com/2017/10/ada-health-secures-e40-million-offunding-to-improve-access-to-healthcare-information-globally/" target="_blank" rel="noopener noreferrer">https://www.eu-startups.com</a></div>
+            <div class="ref-access">Accessed: Mar 17, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">OSTOJIĆ, I.</div>
+            <div class="ref-title">Conversational public services, AI and global healthcare.</div>
+            <div class="ref-source">Forbes, 2024.</div>
+            <div class="ref-source">Available at: <a href="https://www.forbes.com/councils/forbesbusinesscouncil/2024/08/09/conversational-public-services-ai-and-global-healthcare/" target="_blank" rel="noopener noreferrer">https://www.forbes.com</a></div>
+            <div class="ref-access">Accessed: May 20, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">PENNIC, J.</div>
+            <div class="ref-title">Your.MD launches AI-powered doctor diagnosis on Facebook Messenger via chatbot.</div>
+            <div class="ref-source">Hit Consultant, 2016.</div>
+            <div class="ref-source">Available at: <a href="https://hitconsultant.net/2016/04/29/md-launches-ai-powered-doctor-diagnosis-facebook-messenger-via-chatbot/" target="_blank" rel="noopener noreferrer">https://hitconsultant.net</a></div>
+            <div class="ref-access">Accessed: Apr 14, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">PRADO, E.</div>
+            <div class="ref-title">Chatbot: your pocket doctor!</div>
+            <div class="ref-source">Saúde Business, 2016.</div>
+            <div class="ref-source">Available at: <a href="https://www.saudebusiness.com/ti-e-inovao/chatbot-o-seu-mdico-debolso/" target="_blank" rel="noopener noreferrer">https://www.saudebusiness.com</a></div>
+            <div class="ref-access">Accessed: Apr 10, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">RETINAWEB.</div>
+            <div class="ref-title">Chatbots and automation for quick responses in clinics.</div>
+            <div class="ref-source">Retinaweb, 2025.</div>
+            <div class="ref-source">Available at: <a href="https://retinaweb.com.br/blog/automacao-derespostas-clinicas/" target="_blank" rel="noopener noreferrer">https://retinaweb.com.br</a></div>
+            <div class="ref-access">Accessed: Mar 11, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">SCHMITZ, L. C.</div>
+            <div class="ref-title">The potential of chatbots in healthcare.</div>
+            <div class="ref-source">Medicina S/A, 2020.</div>
+            <div class="ref-source">Available at: <a href="https://medicinasa.com.br/chatbots-saude/" target="_blank" rel="noopener noreferrer">https://medicinasa.com.br</a></div>
+            <div class="ref-access">Accessed: Apr 4, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">SENSELY.</div>
+            <div class="ref-title">Sensely.</div>
+            <div class="ref-source">[n.d.].</div>
+            <div class="ref-source">Available at: <a href="https://sensely.com/" target="_blank" rel="noopener noreferrer">https://sensely.com/</a></div>
+            <div class="ref-access">Accessed: Mar 14, 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">TOPOL, E.</div>
+            <div class="ref-title">Deep medicine: how artificial intelligence can make healthcare human again.</div>
+            <div class="ref-source">ACM Digital Library, 2019.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">INFERMEDICA.</div>
+            <div class="ref-title">Symptomate API.</div>
+            <div class="ref-source">Available at: <a href="https://infermedica.com" target="_blank" rel="noopener noreferrer">https://infermedica.com</a></div>
+            <div class="ref-access">Accessed: Mar 10, 2025.</div>
+        </div>
     </div>
 </div>`
     },
@@ -471,7 +603,7 @@ referencias: `<div class="references-container">
         
         consideracoes: `<p>El análisis comparativo de los chatbots Ada Health, Molly (Sensely) y Symptomate comprobó que estas herramientas tienen un gran potencial para transformar la atención en salud, ofreciendo triajes ágiles, soporte clínico inicial y accesibilidad a los usuarios. Entre las soluciones evaluadas, Ada Health se destacó como el chatbot más completo, combinando alta precisión diagnóstica, validación científica robusta, excelente experiencia de uso y amplia aceptación del público. Aunque Molly ofrece un diferencial humanizado a través de un avatar interactivo y Symptomate presenta un fuerte rendimiento en lenguaje natural y conformidad con la LGPD, ambos aún enfrentan limitaciones en rendimiento técnico y/o privacidad. Se concluye que Ada Health es la opción más equilibrada y eficaz entre las analizadas, siendo indicado como modelo para futuras aplicaciones de inteligencia artificial en salud. Se recomienda que las nuevas implementaciones prioricen la seguridad de los datos, la validación clínica continua y el enfoque en la experiencia del paciente para garantizar un impacto positivo y ético en el sector, promoviendo también una mayor accesibilidad y personalización de la atención digital.</p>`,
         
-        referencias: `<div class="references-container">
+referencias: `<div class="references-container">
     <div class="references-grid">
         <div class="reference-item">
             <div class="ref-authors">ADA HEALTH.</div>
@@ -480,32 +612,470 @@ referencias: `<div class="references-container">
             <div class="ref-source">Disponible en: <a href="https://ada.com/es/" target="_blank" rel="noopener noreferrer">https://ada.com/es/</a></div>
             <div class="ref-access">Acceso: 12 mar. 2025.</div>
         </div>
-        <!-- Add all other references with Spanish translations -->
+        <div class="reference-item">
+            <div class="ref-authors">ADAMS, K.</div>
+            <div class="ref-title">Ada Health despliega su tecnología de navegación y evaluación de síntomas en Jefferson Health.</div>
+            <div class="ref-source">MedCity News, 2023.</div>
+            <div class="ref-source">Disponible en: <a href="https://medcitynews.com/2023/04/ada-health-deploys-its-symptomassessment-care-navigation-tech-across-jefferson-health/" target="_blank" rel="noopener noreferrer">https://medcitynews.com</a></div>
+            <div class="ref-access">Acceso: 9 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">ALOWAIS, S. A.; SHUROUG, S.</div>
+            <div class="ref-title">Revolucionando la salud: el papel de la inteligencia artificial en la práctica clínica.</div>
+            <div class="ref-source">BMC Medical Education, 2023.</div>
+            <div class="ref-source">Disponible en: <a href="https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698z#citeas" target="_blank" rel="noopener noreferrer">https://bmcmededuc.biomedcentral.com</a></div>
+            <div class="ref-access">Acceso: 25 mar. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">ARMITAGE, H.</div>
+            <div class="ref-title">Chatbot de decisión médica.</div>
+            <div class="ref-source">Stanford Medicine, 2025.</div>
+            <div class="ref-source">Disponible en: <a href="https://med.stanford.edu/news/all-news/2025/02/physiciandecision-chatbot.html" target="_blank" rel="noopener noreferrer">https://med.stanford.edu</a></div>
+            <div class="ref-access">Acceso: 13 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">BENIS, A. I.</div>
+            <div class="ref-title">El uso de chatbots en atención sanitaria: una revisión de la literatura.</div>
+            <div class="ref-source">JMIR Medical Informatics, v. 8, n. 4, 2020.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">BMJ OPEN.</div>
+            <div class="ref-title">Comparación del rendimiento del triaje de verificadores de síntomas en atención primaria.</div>
+            <div class="ref-source">BMJ Open, v. 10, n. 4, 2020.</div>
+            <div class="ref-source">Disponible en: <a href="https://bmjopen.bmj.com/" target="_blank" rel="noopener noreferrer">https://bmjopen.bmj.com/</a></div>
+            <div class="ref-access">Acceso: 18 mar. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">BRAZ, J.</div>
+            <div class="ref-title">Cómo los chatbots pueden ayudar a pacientes y profesionales del área de salud.</div>
+            <div class="ref-source">Correio da Amazônia, 2018.</div>
+            <div class="ref-source">Disponible en: <a href="https://correiodaamazonia.com/como-os-chatbots-podem-auxiliarpacientes-e-profissionais-da-area-de-saude/" target="_blank" rel="noopener noreferrer">https://correiodaamazonia.com</a></div>
+            <div class="ref-access">Acceso: 14 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">CHATFUEL.</div>
+            <div class="ref-title">Chatbots médicos de IA.</div>
+            <div class="ref-source">Chatfuel, 2024.</div>
+            <div class="ref-source">Disponible en: <a href="https://chatfuel.com/pt/blog/medical-ai-chatbots" target="_blank" rel="noopener noreferrer">https://chatfuel.com</a></div>
+            <div class="ref-access">Acceso: 13 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">CHUDLEIGH, S.</div>
+            <div class="ref-title">Los mejores chatbots médicos de IA.</div>
+            <div class="ref-source">Botpress, 2025.</div>
+            <div class="ref-source">Disponible en: <a href="https://botpress.com/pt/blog/top-health-chatbots" target="_blank" rel="noopener noreferrer">https://botpress.com</a></div>
+            <div class="ref-access">Acceso: 20 mar. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">FUTURO DA SAÚDE.</div>
+            <div class="ref-title">Ada Health crece en el mercado de salud digital al recaudar US$ 30 millones para aplicación de diagnóstico.</div>
+            <div class="ref-source">Futuro da Saúde, 2022.</div>
+            <div class="ref-source">Disponible en: <a href="https://futurodasaude.com.br/ada-health-cresce-no-mercadode-saude-digital-ao-levantar-us-30-milhoes-para-aplicativo-dediagnostico/" target="_blank" rel="noopener noreferrer">https://futurodasaude.com.br</a></div>
+            <div class="ref-access">Acceso: 8 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">INBENTA.</div>
+            <div class="ref-title">Beneficios de los chatbots en el área de salud: 9 casos de uso.</div>
+            <div class="ref-source">Inbenta, 2022.</div>
+            <div class="ref-source">Disponible en: <a href="https://www.inbenta.com/pt-br/articles/benefits-of-chatbots-in-healthcare-9-use-cases-of-healthcare-chatbots/" target="_blank" rel="noopener noreferrer">https://www.inbenta.com</a></div>
+            <div class="ref-access">Acceso: 10 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">MAULDIN, M.</div>
+            <div class="ref-title">ChatterBots, TinyMUDs, and the Turing Test: entrando en la competencia del Premio Loebner.</div>
+            <div class="ref-source">In: Proceedings of the National Conference on Artificial Intelligence. 1994. p. 16–21.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">MORDOR INTELLIGENCE.</div>
+            <div class="ref-title">Mercado de asistentes digitales en salud.</div>
+            <div class="ref-source">Mordor Intelligence, 2024.</div>
+            <div class="ref-source">Disponible en: <a href="https://www.mordorintelligence.com/pt/industry-reports/digital-assistantsin-healthcare-market" target="_blank" rel="noopener noreferrer">https://www.mordorintelligence.com</a></div>
+            <div class="ref-access">Acceso: 16 mar. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">OHR, T.</div>
+            <div class="ref-title">Ada Health asegura €40 millones de financiación para mejorar el acceso a información de salud globalmente.</div>
+            <div class="ref-source">EU Startups, 2017.</div>
+            <div class="ref-source">Disponible en: <a href="https://www.eu-startups.com/2017/10/ada-health-secures-e40-million-offunding-to-improve-access-to-healthcare-information-globally/" target="_blank" rel="noopener noreferrer">https://www.eu-startups.com</a></div>
+            <div class="ref-access">Acceso: 17 mar. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">OSTOJIĆ, I.</div>
+            <div class="ref-title">Servicios públicos conversacionales, IA y salud global.</div>
+            <div class="ref-source">Forbes, 2024.</div>
+            <div class="ref-source">Disponible en: <a href="https://www.forbes.com/councils/forbesbusinesscouncil/2024/08/09/conversational-public-services-ai-and-global-healthcare/" target="_blank" rel="noopener noreferrer">https://www.forbes.com</a></div>
+            <div class="ref-access">Acceso: 20 may. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">PENNIC, J.</div>
+            <div class="ref-title">Your.MD lanza diagnóstico médico con IA en Facebook Messenger a través de chatbot.</div>
+            <div class="ref-source">Hit Consultant, 2016.</div>
+            <div class="ref-source">Disponible en: <a href="https://hitconsultant.net/2016/04/29/md-launches-ai-powered-doctor-diagnosis-facebook-messenger-via-chatbot/" target="_blank" rel="noopener noreferrer">https://hitconsultant.net</a></div>
+            <div class="ref-access">Acceso: 14 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">PRADO, E.</div>
+            <div class="ref-title">Chatbot: ¡su médico de bolsillo!</div>
+            <div class="ref-source">Saúde Business, 2016.</div>
+            <div class="ref-source">Disponible en: <a href="https://www.saudebusiness.com/ti-e-inovao/chatbot-o-seu-mdico-debolso/" target="_blank" rel="noopener noreferrer">https://www.saudebusiness.com</a></div>
+            <div class="ref-access">Acceso: 10 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">RETINAWEB.</div>
+            <div class="ref-title">Chatbots y automatización para respuestas rápidas en clínicas.</div>
+            <div class="ref-source">Retinaweb, 2025.</div>
+            <div class="ref-source">Disponible en: <a href="https://retinaweb.com.br/blog/automacao-derespostas-clinicas/" target="_blank" rel="noopener noreferrer">https://retinaweb.com.br</a></div>
+            <div class="ref-access">Acceso: 11 mar. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">SCHMITZ, L. C.</div>
+            <div class="ref-title">El potencial de los chatbots en salud.</div>
+            <div class="ref-source">Medicina S/A, 2020.</div>
+            <div class="ref-source">Disponible en: <a href="https://medicinasa.com.br/chatbots-saude/" target="_blank" rel="noopener noreferrer">https://medicinasa.com.br</a></div>
+            <div class="ref-access">Acceso: 4 abr. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">SENSELY.</div>
+            <div class="ref-title">Sensely.</div>
+            <div class="ref-source">[s.d.].</div>
+            <div class="ref-source">Disponible en: <a href="https://sensely.com/" target="_blank" rel="noopener noreferrer">https://sensely.com/</a></div>
+            <div class="ref-access">Acceso: 14 mar. 2025.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">TOPOL, E.</div>
+            <div class="ref-title">Deep medicine: cómo la inteligencia artificial puede hacer que la atención médica sea nuevamente humana.</div>
+            <div class="ref-source">ACM Digital Library, 2019.</div>
+        </div>
+        <div class="reference-item">
+            <div class="ref-authors">INFERMEDICA.</div>
+            <div class="ref-title">API de Symptomate.</div>
+            <div class="ref-source">Disponible en: <a href="https://infermedica.com" target="_blank" rel="noopener noreferrer">https://infermedica.com</a></div>
+            <div class="ref-access">Acceso: 10 mar. 2025.</div>
+        </div>
     </div>
 </div>`
     }
 };
 
     let currentLang = 'pt';
-    function calculateReadingTime() {
-        const text = document.getElementById('articleContainer')?.innerText || '';
-        const wordsPerMinute = 200;
-        const wordCount = text.trim().split(/\s+/).length;
-        const minutes = Math.max(1, Math.ceil(wordCount / wordsPerMinute));
-        document.getElementById('estimatedReadingTime').innerText = minutes;
+
+const translations = {
+    pt: {
+        logo: "Chatbots na Saúde Digital",
+        nav: {
+            resumo: "Resumo",
+            introducao: "Introdução",
+            metodologia: "Metodologia",
+            referencial: "Referencial",
+            resultados: "Resultados",
+            consideracoes: "Considerações",
+            referencias: "Referências"
+        },
+        toc: {
+            titulo: "Índice",
+            resumo: "Resumo",
+            introducao: "Introdução",
+            metodologia: "Metodologia",
+            referencial: "Referencial teórico",
+            resultados: "Resultados e discussão",
+            consideracoes: "Considerações finais",
+            referencias: "Referências"
+        },
+        hero: {
+            titulo: "Entre a tecnologia e o cuidado:<br>análise comparativa estruturada de chatbots na saúde digital",
+            subtitulo: "Ada Health · Molly (Sensely) · Symptomate — precisão diagnóstica, LGPD, usabilidade e linguagem natural."
+        },
+            byline: {
+                autor1: "Andressa Barbosa Carvalho Araújo",
+                autor2: "Matheus Bilitardo Abib",
+                autor3: "Luciano Gonçalves de Carvalho",
+                tempoLeitura: "17",
+                minLeitura: "min de leitura",
+                instituicao: "FATEC Mogi das Cruzes · 2025"
+            },
+    
+        buttons: {
+            citarABNT: "Citar ABNT",
+            citarAPA: "Citar APA",
+            compartilhar: "Compartilhar",
+            tema: "Tema"
+        },
+        footer: {
+            autores: "Autores",
+            instituicao: "Instituição",
+            links: "Links Principais",
+            compartilhe: "Compartilhe",
+            comoCitar: "Como citar este artigo:",
+            direitos: "Todos os direitos reservados",
+            resumoArtigo: "Resumo do artigo",
+            metodologia: "Metodologia",
+            resultados: "Resultados",
+            referencias: "Referências"
+        },
+        references: {
+            title: "REFERÊNCIAS",
+            previous: "Anterior",
+            next: "Próxima",
+            page: "Página",
+            of: "de",
+            references: "referências"
+        },
+        toast: {
+            langChanged: "Idioma alterado para "
+        }
+    },
+    en: {
+        logo: "Chatbots in Digital Health",
+        nav: {
+            resumo: "Abstract",
+            introducao: "Introduction",
+            metodologia: "Methodology",
+            referencial: "Theoretical Framework",
+            resultados: "Results",
+            consideracoes: "Conclusion",
+            referencias: "References"
+        },
+        toc: {
+            titulo: "Index",
+            resumo: "Abstract",
+            introducao: "Introduction",
+            metodologia: "Methodology",
+            referencial: "Theoretical Framework",
+            resultados: "Results and Discussion",
+            consideracoes: "Final Considerations",
+            referencias: "References"
+        },
+        hero: {
+            titulo: "Between technology and care:<br>structured comparative analysis of chatbots in digital health",
+            subtitulo: "Ada Health · Molly (Sensely) · Symptomate — diagnostic accuracy, LGPD, usability and natural language."
+        },
+        byline: {
+            autor1: "Andressa Barbosa Carvalho Araújo",
+            autor2: "Matheus Bilitardo Abib",
+            autor3: "Luciano Gonçalves de Carvalho",
+            tempoLeitura: "17",
+            minLeitura: "min read",
+            instituicao: "FATEC Mogi das Cruzes · 2025"
+        },
+        buttons: {
+            citarABNT: "Cite ABNT",
+            citarAPA: "Cite APA",
+            compartilhar: "Share",
+            tema: "Theme"
+        },
+        footer: {
+            autores: "Authors",
+            instituicao: "Institution",
+            links: "Main Links",
+            compartilhe: "Share",
+            comoCitar: "How to cite this article:",
+            direitos: "All rights reserved",
+            resumoArtigo: "Article abstract",
+            metodologia: "Methodology",
+            resultados: "Results",
+            referencias: "References"
+        },
+        references: {
+            title: "REFERENCES",
+            previous: "Previous",
+            next: "Next",
+            page: "Page",
+            of: "of",
+            references: "references"
+        },
+        toast: {
+            langChanged: "Language changed to "
+        }
+    },
+    es: {
+        logo: "Chatbots en Salud Digital",
+        nav: {
+            resumo: "Resumen",
+            introducao: "Introducción",
+            metodologia: "Metodología",
+            referencial: "Marco Teórico",
+            resultados: "Resultados",
+            consideracoes: "Conclusiones",
+            referencias: "Referencias"
+        },
+        toc: {
+            titulo: "Índice",
+            resumo: "Resumen",
+            introducao: "Introducción",
+            metodologia: "Metodología",
+            referencial: "Marco teórico",
+            resultados: "Resultados y discusión",
+            consideracoes: "Consideraciones finales",
+            referencias: "Referencias"
+        },
+        hero: {
+            titulo: "Entre la tecnología y el cuidado:<br>análisis comparativo estructurado de chatbots en salud digital",
+            subtitulo: "Ada Health · Molly (Sensely) · Symptomate — precisión diagnóstica, LGPD, usabilidad y lenguaje natural."
+        },
+        byline: {
+                autor1: "Andressa Barbosa Carvalho Araújo",
+                autor2: "Matheus Bilitardo Abib",
+                autor3: "Luciano Gonçalves de Carvalho",
+                tempoLeitura: "17",
+                minLeitura: "min de lectura",
+                instituicao: "FATEC Mogi das Cruzes · 2025"
+             },
+        buttons: {
+            citarABNT: "Citar ABNT",
+            citarAPA: "Citar APA",
+            compartilhar: "Compartir",
+            tema: "Tema"
+        },
+        footer: {
+            autores: "Autores",
+            instituicao: "Institución",
+            links: "Enlaces Principales",
+            compartilhe: "Compartir",
+            comoCitar: "Cómo citar este artículo:",
+            direitos: "Todos los derechos reservados",
+            resumoArtigo: "Resumen del artículo",
+            metodologia: "Metodología",
+            resultados: "Resultados",
+            referencias: "Referencias"
+        },
+        references: {
+            title: "REFERENCIAS",
+            previous: "Anterior",
+            next: "Siguiente",
+            page: "Página",
+            of: "de",
+            references: "referencias"
+        },
+        toast: {
+            langChanged: "Idioma cambiado a "
+        }
     }
+};
+
+function updateUITexts(lang) {
+       console.log('updateUITexts chamado para:', lang);
+    const t = translations[lang];
+    
+    document.querySelector('.logo-area h4').innerText = t.logo;
+    
+    document.querySelector('.fixed-header .nav-links-fixed a:nth-child(1)').innerText = t.nav.resumo;
+    document.querySelector('.fixed-header .nav-links-fixed a:nth-child(2)').innerText = t.nav.introducao;
+    document.querySelector('.fixed-header .nav-links-fixed a:nth-child(3)').innerText = t.nav.metodologia;
+    document.querySelector('.fixed-header .nav-links-fixed a:nth-child(4)').innerText = t.nav.referencial;
+    document.querySelector('.fixed-header .nav-links-fixed a:nth-child(5)').innerText = t.nav.resultados;
+    document.querySelector('.fixed-header .nav-links-fixed a:nth-child(6)').innerText = t.nav.consideracoes;
+    document.querySelector('.fixed-header .nav-links-fixed a:nth-child(7)').innerText = t.nav.referencias;
+    
+    const topBarLinks = document.querySelectorAll('.top-bar .nav-links a');
+    topBarLinks[0].innerText = t.nav.resumo;
+    topBarLinks[1].innerText = t.nav.introducao;
+    topBarLinks[2].innerText = t.nav.metodologia;
+    topBarLinks[3].innerText = t.nav.referencial;
+    topBarLinks[4].innerText = t.nav.resultados;
+    topBarLinks[5].innerText = t.nav.consideracoes;
+    topBarLinks[6].innerText = t.nav.referencias;
+    
+    document.querySelector('.hero h1').innerHTML = t.hero.titulo;
+    document.querySelector('.hero p').innerHTML = t.hero.subtitulo;
+    
+    const authors = document.querySelectorAll('.byline .authors span');
+    authors[0].innerHTML = `<i class="pi pi-user"></i> ${t.byline.autor1}`;
+    authors[1].innerHTML = `<i class="pi pi-user"></i> ${t.byline.autor2}`;
+    authors[2].innerHTML = `<i class="pi pi-user"></i> ${t.byline.autor3}`;
+    
+
+
+    const readingTimeSpan = document.querySelector('.reading-time');
+    if (readingTimeSpan) {
+        readingTimeSpan.innerHTML = `<i class="pi pi-clock"></i> <span id="estimatedReadingTime">${t.byline.tempoLeitura}</span> ${t.byline.minLeitura}`;
+    }
+
+    document.querySelector('.byline .meta span:last-child').innerHTML = `<i class="pi pi-building"></i> ${t.byline.instituicao}`;
+    
+    document.getElementById('citeABNT').innerHTML = `<i class="fas fa-quote-right"></i> ${t.buttons.citarABNT}`;
+    document.getElementById('citeAPA').innerHTML = `<i class="pi pi-book"></i> ${t.buttons.citarAPA}`;
+    document.getElementById('shareBtn').innerHTML = `<i class="pi pi-share-alt"></i> ${t.buttons.compartilhar}`;
+    document.getElementById('themeToggle').innerHTML = `<i class="pi pi-moon"></i> ${t.buttons.tema}`;
+    
+    const themeToggleFixed = document.getElementById('themeToggleFixed');
+    if (themeToggleFixed) {
+        themeToggleFixed.innerHTML = `<i class="pi pi-moon"></i>`;
+        themeToggleFixed.title = t.buttons.tema;
+    }
+    
+    document.querySelector('.toc h3').innerHTML = `<i class="pi pi-list"></i> ${t.toc.titulo}`;
+    const tocLinks = document.querySelectorAll('.toc ul li a');
+    tocLinks[0].innerHTML = `<i class="pi pi-file-pdf"></i> ${t.toc.resumo}`;
+    tocLinks[1].innerHTML = `<i class="pi pi-info-circle"></i> ${t.toc.introducao}`;
+    tocLinks[2].innerHTML = `<i class="pi pi-cog"></i> ${t.toc.metodologia}`;
+    tocLinks[3].innerHTML = `<i class="pi pi-book"></i> ${t.toc.referencial}`;
+    tocLinks[4].innerHTML = `<i class="pi pi-chart-bar"></i> ${t.toc.resultados}`;
+    tocLinks[5].innerHTML = `<i class="pi pi-check-circle"></i> ${t.toc.consideracoes}`;
+    tocLinks[6].innerHTML = `<i class="pi pi-database"></i> ${t.toc.referencias}`;
+    
+    document.querySelectorAll('.footer-section h3')[0].innerHTML = `<i class="pi pi-users"></i> ${t.footer.autores}`;
+    document.querySelectorAll('.footer-section h3')[1].innerHTML = `<i class="pi pi-building"></i> ${t.footer.instituicao}`;
+    document.querySelectorAll('.footer-section h3')[2].innerHTML = `<i class="pi pi-link"></i> ${t.footer.links}`;
+    document.querySelectorAll('.footer-section h3')[3].innerHTML = `<i class="pi pi-share-alt"></i> ${t.footer.compartilhe}`;
+    
+    const footerLinks = document.querySelectorAll('.footer-links li a');
+    footerLinks[0].innerHTML = `<i class="pi pi-arrow-right"></i> ${t.footer.resumoArtigo}`;
+    footerLinks[1].innerHTML = `<i class="pi pi-arrow-right"></i> ${t.footer.metodologia}`;
+    footerLinks[2].innerHTML = `<i class="pi pi-arrow-right"></i> ${t.footer.resultados}`;
+    footerLinks[3].innerHTML = `<i class="pi pi-arrow-right"></i> ${t.footer.referencias}`;
+    
+    document.querySelector('.footer-cite p').innerHTML = `<i class="pi pi-quote-right"></i> ${t.footer.comoCitar}`;
+    document.getElementById('citeABNTFooter').innerHTML = `<i class="fas fa-quote-right"></i> ${t.buttons.citarABNT}`;
+    document.querySelector('.footer-copyright').innerHTML = `<i class="pi pi-copyright"></i> 2025 — ${t.footer.direitos}`;
+    
+    const referencesTitle = document.querySelector('#referencias h2 span');
+    if (referencesTitle) {
+        referencesTitle.innerHTML = `<i class="fas fa-book"></i> ${t.references.title}`;
+    }
+}
+
+function updatePaginationTexts(lang) {
+    const t = translations[lang];
+    const paginationInfo = document.querySelector('.pagination-info');
+    if (paginationInfo) {
+        const currentText = paginationInfo.innerText;
+        const match = currentText.match(/Página (\d+) de (\d+) \((\d+) referências\)/);
+        if (match) {
+            paginationInfo.innerText = `${t.references.page} ${match[1]} ${t.references.of} ${match[2]} (${match[3]} ${t.references.references})`;
+        }
+    }
+    
+    const prevBtn = document.querySelector('.pagination-btn:first-child');
+    const nextBtn = document.querySelector('.pagination-btn:last-child');
+    if (prevBtn && !prevBtn.disabled) {
+        prevBtn.innerHTML = `<i class="fas fa-chevron-left"></i> ${t.references.previous}`;
+    }
+    if (nextBtn && !nextBtn.disabled) {
+        nextBtn.innerHTML = `${t.references.next} <i class="fas fa-chevron-right"></i>`;
+    }
+}
+
+const originalRenderReferencesPage = renderReferencesPage;
+renderReferencesPage = function() {
+    originalRenderReferencesPage();
+    updatePaginationTexts(currentLang);
+};
+
+
 function renderFullArticle() {
     const t = fullContent[currentLang];
+    const titles = translations[currentLang];
+    
     const html = `
-        <section id="resumo" class="resumo-card"><h2><i class="fas fa-file-lines"></i> RESUMO</h2>${t.resumo}</section>
-        <section id="introducao"><h2>1. INTRODUÇÃO</h2>${t.introducao}</section>
-        <section id="metodologia"><h2>2. METODOLOGIA</h2>${t.metodologia}</section>
-        <section id="referencial"><h2>3. REFERENCIAL TEÓRICO</h2>${t.referencial}</section>
-        <section id="resultados"><h2>4. RESULTADOS E DISCUSSÃO</h2>${t.resultados}</section>
-        <section id="consideracoes"><h2>5. CONSIDERAÇÕES FINAIS</h2>${t.consideracoes}</section>
+        <section id="resumo" class="resumo-card"><h2><i class="fas fa-file-lines"></i> ${titles.toc.resumo.toUpperCase()}</h2>${t.resumo}</section>
+        <section id="introducao"><h2>1. ${titles.toc.introducao.toUpperCase()}</h2>${t.introducao}</section>
+        <section id="metodologia"><h2>2. ${titles.toc.metodologia.toUpperCase()}</h2>${t.metodologia}</section>
+        <section id="referencial"><h2>3. ${titles.toc.referencial.toUpperCase()}</h2>${t.referencial}</section>
+        <section id="resultados"><h2>4. ${titles.toc.resultados.toUpperCase()}</h2>${t.resultados}</section>
+        <section id="consideracoes"><h2>5. ${titles.toc.consideracoes.toUpperCase()}</h2>${t.consideracoes}</section>
         <section id="referencias">
             <h2 style="display: flex; align-items: center; justify-content: space-between; cursor: pointer;" onclick="toggleReferences()">
-                <span><i class="fas fa-book"></i> REFERÊNCIAS</span>
+                <span><i class="fas fa-book"></i> ${titles.references.title}</span>
                 <span id="referencesToggleIcon" style="font-size: 1.2rem;"><i class="fas fa-chevron-down"></i></span>
             </h2>
             <div id="referencesContent" style="display: none;">
@@ -517,8 +1087,9 @@ function renderFullArticle() {
     
     processReferencesWithPagination(t.referencias);
     
-    calculateReadingTime();
     updateTocActive();
+    updateUITexts(currentLang);
+
 }
 
 let currentReferencesPage = 1;
@@ -674,11 +1245,12 @@ const observer = new MutationObserver(() => {
 observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
 updateThemeButtons();
 
-    document.getElementById('langSelect').addEventListener('change', (e) => {
-        currentLang = e.target.value;
-        renderFullArticle();
-        showToast(`Idioma alterado para ${currentLang === 'pt' ? 'Português' : currentLang === 'en' ? 'English' : 'Español'}`);
-    });
+document.getElementById('langSelect').addEventListener('change', (e) => {
+    currentLang = e.target.value;
+    renderFullArticle();
+    updateUITexts(currentLang);
+    showToast(`${translations[currentLang].toast.langChanged}${currentLang === 'pt' ? 'Português' : currentLang === 'en' ? 'English' : 'Español'}`);
+});
     document.getElementById('themeToggle').addEventListener('click', () => {
         document.body.classList.toggle('dark');
         localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
@@ -745,7 +1317,5 @@ updateThemeButtons();
             if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
     });
-    renderFullArticle();
-    initProgressBar();
-
-
+renderFullArticle();
+initProgressBar();
